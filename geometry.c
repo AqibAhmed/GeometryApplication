@@ -9,10 +9,12 @@ int main()
 int calAreaOfSquare()
 {
     // stub for calculating Area of Square
+    printf("Enter the length and breadth\n");
 }
 int calAreaOfTriangle()
 {
-    // stub for calculating Area of Triangle 
+    // stub for calculating Area of Triangle
+
 }
 int calAreaOfRectangle()
 {
